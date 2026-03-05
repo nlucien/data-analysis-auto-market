@@ -1,8 +1,13 @@
 <<<<<<< HEAD
-# Data Analysis Auto Market
+## Titre
+Analyse du Marché Automobile
 
 ## Description
-Analyse du marché automobile réalisée avec Python.
+Ce projet analyse un dataset de voitures pour comprendre le marché automobile.
+Les analyses incluent :
+- le prix moyen
+- la corrélation entre prix, année et kilométrage
+- la distribution des prix
 
 ## Objectifs
 - Analyse statistique des prix
@@ -13,6 +18,13 @@ Analyse du marché automobile réalisée avec Python.
 - Python
 - Pandas
 - Matplotlib
+- Jupyter Notebook
+  
+## Analyses réalisées
+- Nettoyage des données
+- Analyse descriptive
+- Corrélation des variables
+- Visualisation des données
 
 ## Auteur
 Lucien
